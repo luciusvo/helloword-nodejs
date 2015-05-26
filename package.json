@@ -1,16 +1,25 @@
 {
-  "name": "helloheroku",
-  "version": "1.0",
-  "private": true,
+  "name": "heroku",
+  "version": "1",
+  "description": "Helo",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "4.x",
-    "private": true
+    "express": "~4.9.x"
   },
   "engines": {
-    "node": "0.10.21",
-    "npm": "2.9.1"
-  }
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luciusvo/helloword-nodejs"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
 }
