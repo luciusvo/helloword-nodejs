@@ -6,7 +6,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "~4.9.x"
+    "express": "~4.9.x",
+    "private": true
   },
   "engines": {
     "node": "0.10.21",
