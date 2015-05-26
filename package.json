@@ -1,5 +1,4 @@
-{
-  "name": "helloheroku",
+"name": "helloheroku",
   "version": "1.0",
   "private": true,
   "scripts": {
