@@ -1,14 +1,12 @@
 {
-  "name": "hello-heroku-nodejs",
+  "name": "helloheroku",
   "version": "1.0",
   "private": true,
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "3.4.4",
-    "jade": "*",
-    "stylus": "*"
+    "express": "~4.9.x"
   },
   "engines": {
     "node": "0.12.3",
