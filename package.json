@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "lasted",
+    "express": "4.x",
     "private": true
   },
   "engines": {
